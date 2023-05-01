@@ -9,7 +9,7 @@ Navya chinta | IIT Goa
  
  # About me 
  
- ![Navya](yo.jpeg "hi")
+ ![Navya](goofy.jpeg "hi")
 
 -  I am a college student currently in first year Mathematics and computing Branch at IIT Goa.
 -  I am from Vishakapatanam located in Andhra pradesh.

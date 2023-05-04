@@ -2,7 +2,7 @@
 
 Navya chinta | IIT Goa 
  
- * [About me](#)
+ * [About me](#me)
  * [Education](#education)
  * [Course @IIT Goa](course@iitgoa)
  * [Hobbies and interest](interests)
